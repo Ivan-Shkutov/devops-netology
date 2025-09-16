@@ -12,6 +12,11 @@
 
 3. Галочку Initialize repository with a README лучше не ставить, чтобы не пришлось разрешать конфликты.
 
+![1](https://github.com/Ivan-Shkutov/git-homeworks-04/blob/main/1.png)
+
+![2](https://github.com/Ivan-Shkutov/git-homeworks-04/blob/main/1.png)
+
+
 4. Если вы зарегистрировались при помощи аккаунта в другой системе и не указали пароль, то увидите сообщение: You won't be able to pull or push project code via HTTPS until you set a password on your account. Тогда перейдите по ссылке из этого сообщения и задайте пароль. Если вы уже умеете пользоваться SSH-ключами, то воспользуйтесь этой возможностью (подробнее про SSH мы поговорим в следующем учебном блоке).
 
 5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагаемые варианты для начала работы в репозитории в секции Command line instructions.
