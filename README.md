@@ -12,10 +12,11 @@
 
 3. Галочку Initialize repository with a README лучше не ставить, чтобы не пришлось разрешать конфликты.
 
-![1](https://github.com/Ivan-Shkutov/git-homeworks-04/blob/main/1.png)
+![1](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/1.png)
 
-![2](https://github.com/Ivan-Shkutov/git-homeworks-04/blob/main/1.png)
+![2](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/2.png)
 
+![3](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/3.png)
 
 4. Если вы зарегистрировались при помощи аккаунта в другой системе и не указали пароль, то увидите сообщение: You won't be able to pull or push project code via HTTPS until you set a password on your account. Тогда перейдите по ссылке из этого сообщения и задайте пароль. Если вы уже умеете пользоваться SSH-ключами, то воспользуйтесь этой возможностью (подробнее про SSH мы поговорим в следующем учебном блоке).
 
@@ -29,6 +30,7 @@
 
 9. Обратите внимание, как изменился результат работы команды git remote -v.
 
+![4](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/4.png)
 
 ### Задание 2. Теги
 
@@ -38,13 +40,15 @@
 
 2. Аналогично создайте аннотированный тег v0.1.
 
+![5](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/5.png)
+
 3. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги.
 
 в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
 
 в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
 
-в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке.
+![6](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/6.png)
 
 
 ### Задание 3. Ветки
@@ -61,13 +65,27 @@
 
 5. Отправьте новую ветку в репозиторий на GitHub git push -u origin fix.
 
+![7](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/7.png)
+
 6. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network.
+
+![8](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/8.png)
+
+![9](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/9.png)
+
+![10](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/10.png)
 
 7. Теперь измените содержание файла README.md, добавив новую строчку.
 
 8. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network и как изменится вывод команды git log.
 
+![11](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/11.png)
 
+![12](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/12.png)
+
+![13](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/13.png)
+
+![14](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/14.png)
 
 ### Задание 4. Упрощаем себе жизнь
 
@@ -80,6 +98,8 @@
 3. Элементы управления для работы с Git будут выглядеть примерно так:
 
 4. Попробуйте выполнить пару коммитов, используя IDE.
+
+![15](https://github.com/Ivan-Shkutov/devops-netology/blob/fix/15.png)
 
 Если вверху экрана выбрать свою операционную систему, можно посмотреть горячие клавиши для работы с Git. Подробней о визуальном интерфейсе мы расскажем на одной из следующих лекций.
 
